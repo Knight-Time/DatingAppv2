@@ -1,0 +1,8 @@
+.nav-link{
+  color: red;
+}
+
+
+.dropdown-toggle,.dropdown-item{
+  cursor: pointer;
+}
